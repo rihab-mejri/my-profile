@@ -1,0 +1,46 @@
+/*colors and fonts */
+
+body{
+	background: rgb(230,230,230);
+	color: rgb(50,50,50);
+	font-family: Helvetica;
+	font-size: 17px;
+}
+	
+h1 {
+	color: red;
+	font-family:courier;
+	font-size: 32px
+}
+
+h2{
+	color: : rgb(100,100,100);
+	font-family: courier;
+	font-size: 24px;
+	font-weight: lighter;
+}
+
+
+
+
+
+
+
+.img-circle{
+ border-radius: 50%;
+}
+
+.btn-blue{
+	background-color: #6B72E1;
+}
+
+
+
+
+
+
+
+
+
+
+
